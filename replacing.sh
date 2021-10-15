@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo -n "Enter your path file: "
 read -r path
 [[ -f $path ]] 
